@@ -9,7 +9,7 @@
 
 많은 사람들은 입을 모아 **아이언맨, 캡틴아메리카와 같은 매력적인 캐릭터의 부재**를 외치고 있습니다. 군집화를 통해 **이들의 역할을 대신할 슈퍼히어로**를 찾아보고자 합니다.
 
-<p align="center"><img src="https://user-images.githubusercontent.com/108817458/236495279-f05b5499-0a15-4e18-9253-825c85cd0b2f.jpeg"/></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/108817458/236495279-f05b5499-0a15-4e18-9253-825c85cd0b2f.jpeg" weight=600 height=300/></p>
 
 ## 2. 문제 해결 아이디어
 1. **Kaggle의 Kaggle의 Superheroes NLP Dataset 이용**
