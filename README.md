@@ -1,4 +1,4 @@
-# deep daiv.
+# 인공지능 연합동아리 deep daiv.
 ### deep daiv. into what we want
 |제목|내용|설명|
 |:---:|:---:|:---:|
